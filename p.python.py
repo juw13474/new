@@ -4,3 +4,6 @@ def multiply(numbers):
         total *= x  
     return total  
 print(multiply((8, 2, 3, -1, 7)))
+
+#my program
+#sample test
